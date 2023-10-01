@@ -7,7 +7,7 @@
                         -slug
                         -publish_at
 
-
-# admin.site.register(Post)
-# python manage.py makemigrations
-# python manage.py migrate
+# step 2:
+        -admin.site.register(Post)
+        -python manage.py makemigrations
+        -python manage.py migrate
