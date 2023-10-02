@@ -14,3 +14,14 @@
         -admin.site.register(Post)
         -python manage.py makemigrations
         -python manage.py migrate
+
+# step 3:
+        - edit for models 
+            - category
+            - tags
+            -
+
+# step 4:
+         - search
+         - login 
+          - register
